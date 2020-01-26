@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on 我的博客</title>
+    <link>http://jilin.ga/post/</link>
+    <description>Recent content in Posts on 我的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 26 Jan 2020 21:43:18 +0800</lastBuildDate>
+    
+	<atom:link href="http://jilin.ga/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hello World</title>
+      <link>http://jilin.ga/post/hello-world/</link>
+      <pubDate>Sun, 26 Jan 2020 21:43:18 +0800</pubDate>
+      
+      <guid>http://jilin.ga/post/hello-world/</guid>
+      <description>first commit</description>
+    </item>
+    
+    <item>
+      <title>APS Chapter 1-5 Summary Part</title>
+      <link>http://jilin.ga/post/aps-summary/</link>
+      <pubDate>Fri, 12 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://jilin.ga/post/aps-summary/</guid>
+      <description>Chapter One People throught history have used public speaking as a vital means of communication and empowerment(n.赋权). Because you will live the rest of your life in a globalized world, the need for English public speaking will almost surely touch you at some time. To be successful giving speeches in English, you need</description>
+    </item>
+    
+    <item>
+      <title>My First Post</title>
+      <link>http://jilin.ga/post/my-first-post/</link>
+      <pubDate>Thu, 11 Apr 2019 17:32:27 +0800</pubDate>
+      
+      <guid>http://jilin.ga/post/my-first-post/</guid>
+      <description> hi </description>
+    </item>
+    
+    <item>
+      <title>线性判别分析LDA</title>
+      <link>http://jilin.ga/post/lda/</link>
+      <pubDate>Thu, 11 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://jilin.ga/post/lda/</guid>
+      <description>讨论范围 二分类问题。 有监督学习。 保证数据可分性。 线性判别分析LDA Fisher线性判别。 linear discriminant analysis 把样本都投影到一个方向上，在一维空间中确定一个</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://jilin.ga/post/%E5%AE%89%E8%A3%85hogo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://jilin.ga/post/%E5%AE%89%E8%A3%85hogo/</guid>
+      <description>安装hogo 1 2 3 4 5 6 7 8  brew install hugo hugo new site my_site cd my_site git submodule add https://github.com/xianmin/hugo-theme-jane.git themes/jane echo &amp;#39;theme=&amp;#34;jane&amp;#34;&amp;#39; &amp;gt;&amp;gt; config.toml cp themes/jane/exampleSite/full-config.toml config.toml   本地预览 hugo server
+生成 hugo
+git init git add . git commit -m &amp;ldquo;init my blog&amp;rdquo; git remote add origin https://github.com/meteorecital/meteorecital.github.io.git git push -u origin master</description>
+    </item>
+    
+  </channel>
+</rss>
