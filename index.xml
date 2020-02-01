@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>我的博客</title>
+    <title>My Blog</title>
     <link>http://jilin.ga/</link>
-    <description>Recent content on 我的博客</description>
+    <description>Recent content on My Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <lastBuildDate>Sun, 26 Jan 2020 21:43:18 +0800</lastBuildDate>
@@ -17,7 +17,7 @@
       <pubDate>Sun, 26 Jan 2020 21:43:18 +0800</pubDate>
       
       <guid>http://jilin.ga/post/hello-world/</guid>
-      <description>first commit</description>
+      <description>first commit lalala</description>
     </item>
     
     <item>
